@@ -12,10 +12,10 @@ This challenge focuses mostly on HTML & CSS. There's a tiny bit of JS included f
 
 ## Deploying the project
 
-https://cecilia-rds.github.io/luna-sebo-cafe
+https://cecilia-rds.github.io/sunnyside-agency
 
 
 ## Developers
 
-|https://github.com/cecilia-rds/sunnyside-agency |
+|https://github.com/cecilia-rds |
 
