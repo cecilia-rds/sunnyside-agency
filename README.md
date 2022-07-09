@@ -10,7 +10,7 @@
 This challenge focuses mostly on HTML & CSS. There's a tiny bit of JS included for the mobile navigation toggle.
 
 
-## Deploying your project
+## Deploying the project
 
 https://cecilia-rds.github.io/luna-sebo-cafe
 
