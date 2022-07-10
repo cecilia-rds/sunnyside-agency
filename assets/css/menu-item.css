@@ -1,0 +1,10 @@
+.menu__item {
+    display: inline;
+    text-decoration: none;
+    margin: 0 0 0 15px;
+    color: white;
+    font-weight: bold;
+    top: 110px;
+    font-size: 1rem;
+    left: 0;
+}
