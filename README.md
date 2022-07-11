@@ -2,7 +2,7 @@
 
 > Project status: :warning: (developing)
 
-![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Sunnyside agency landing page coding challenge](./assets/img/desktop-preview.jpg)
 
 
 ## Project description
