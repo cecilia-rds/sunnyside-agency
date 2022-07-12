@@ -2,3 +2,36 @@
     font-weight: bold;
     background-color: wheat;
 }
+main {
+    display: grid;
+    
+    grid-template-areas: 
+   ".principal .principal"
+   ".secao2 .secao__img"
+   ".secao3 .secao4"
+   ".secao5 .clients"
+
+}
+.principal .principal__img {
+    grid-area: 1/1;
+    width: 100%;
+}
+.secao2 {
+    grid-area: 2/1;
+    background-color: aqua;
+}
+.secao__img {
+    grid-column: 3/2;
+}
+.secao3 {
+    grid-area: 3/4;
+}
+.secao4 {
+
+}
+.secao5 {
+
+}
+.clients{
+
+}
