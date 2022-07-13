@@ -10,28 +10,28 @@ main {
    ".secao2 .secao__img"
    ".secao3 .secao4"
    ".secao5 .clients"
+   ".secao5 .clients"
+   ".secao5 .clients"
 
 }
-.principal .principal__img {
-    grid-area: 1/1;
-    width: 100%;
+.principal {
+   grid-area: 1/1;
+   
 }
 .secao2 {
-    grid-area: 2/1;
-    background-color: aqua;
+   grid-area: 2/1;
 }
 .secao__img {
-    grid-column: 3/2;
+   grid-area: 2/2;
 }
+.secao3__img {
+   grid-area: 3/1;
+}
+
 .secao3 {
-    grid-area: 3/4;
-}
-.secao4 {
+    grid-area: 3/2;
 
 }
-.secao5 {
-
-}
-.clients{
-
+.secao4{
+    grid-area: 5/2;
 }
