@@ -7,9 +7,9 @@ main {
     
     grid-template-areas: 
    ".principal .principal"
-   ".secao2 .secao__img"
-   ".secao3 .secao4"
-   ".secao5 .clients"
+   ".secao3 .secao__img"
+   ".secao4 .secao5"
+   ".secao6 .secao7__img"
    ".secao5 .clients"
    ".secao5 .clients"
 
@@ -18,20 +18,29 @@ main {
    grid-area: 1/1;
    
 }
-.secao2 {
+.secao3 {
    grid-area: 2/1;
 }
 .secao__img {
    grid-area: 2/2;
 }
-.secao3__img {
-   grid-area: 3/1;
+.secao4__img {
+   grid-area: 2/2;
 }
 
-.secao3 {
+.secao5__img {
+    grid-area: 3/1;
+
+}
+.secao6{
     grid-area: 3/2;
-
 }
-.secao4{
-    grid-area: 5/2;
+.secao7__img {
+   grid-area: 4/1;
+}
+.secao8__img {
+   grid-area: 4/2;
+}
+.clients {
+   grid-area: 6/1;
 }
