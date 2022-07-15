@@ -1,0 +1,14 @@
+.rodape {
+    background-color: #89d3c4;
+}
+.logo__footer {
+    font-size: 2em;
+    text-align: center;
+    color: #205f52;
+}
+.menu__atalhos {
+    display: inline;
+    color: #205f52;
+    margin: 0 0 0 15%;
+   
+}
