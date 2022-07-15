@@ -1,0 +1,12 @@
+.secao8 {
+    background-color: #59ceff;
+ }
+ .secao8__titulo {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+ }
+ .secao8__descricao {
+    margin-left: 25%;
+    margin-right: 20%;
+ }
