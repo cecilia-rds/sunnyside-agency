@@ -16,7 +16,6 @@ main {
 }
 .principal {
    grid-area: 1/1;
-   
 }
 .secao3 {
    grid-area: 2/1;
@@ -35,12 +34,23 @@ main {
 .secao6{
     grid-area: 3/2;
 }
-.secao7__img {
+.secao7 {
    grid-area: 4/1;
 }
-.secao8__img {
+.secao8 {
    grid-area: 4/2;
+   
+}
+
+
+.secao9__img {
+   grid-area: 5/2;
 }
 .clients {
    grid-area: 6/1;
+}
+
+.clients__titulo {
+   text-align: center;
+   font-weight: bold;
 }
