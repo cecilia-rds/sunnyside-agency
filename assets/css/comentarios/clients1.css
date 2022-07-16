@@ -1,0 +1,22 @@
+.clients1__img {
+    margin-left: 33%;
+   
+}
+.clients1__comentario {
+    margin-left: 15%;
+    margin-right: 25%;
+    color: rgba(93, 96, 102, 0.782);
+}
+.clients1__autor {
+  
+    font-weight: bold;
+    margin-left: 33%;
+    margin-right: 20%;
+  
+}
+.clients1__cargo {
+  
+    margin-left: 30%;
+    margin-right: 10%;
+}
+

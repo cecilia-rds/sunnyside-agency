@@ -1,0 +1,14 @@
+.secao6__titulo {
+    text-indent: 20%;
+    font-size: 2em;;
+}
+.secao6__descricao {
+    margin-left: 20%;
+    margin-right: 20%;
+    color: rgba(93, 96, 102, 0.782);
+}
+
+.secao6__more {
+    text-indent: 20%;
+    font-weight: bold;
+}
