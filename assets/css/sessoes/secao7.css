@@ -1,14 +1,23 @@
 .secao7 {
-    background-color: #89d3c4;
- }
+    background-color: #84ccbc;
+}
  
- .secao7__titulo {
+.secao7__titulo {
+    margin-top: 0%;
     text-align: center;
     font-weight: bolder;
     font-size: 2em;
+    color: #205f52;
     
- }
- .secao7__descricao {
+}
+.secao7__descricao {
     margin-left: 25%;
     margin-right: 20%;
- }
+    color: #205f52;
+}
+.secao7__img {
+    max-width: 80%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+}

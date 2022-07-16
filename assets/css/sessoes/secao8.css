@@ -1,12 +1,22 @@
 .secao8 {
-    background-color: #59ceff;
+   background-color: #59ceff;
  }
- .secao8__titulo {
-    text-align: center;
-    font-weight: bold;
-    font-size: 2em;
+.secao8__titulo {
+   margin-top: 0%;
+   text-align: center;
+   font-weight: bold;
+   font-size: 2em;
+   color: rgba(28, 91, 142, 0.914);
  }
- .secao8__descricao {
-    margin-left: 25%;
-    margin-right: 20%;
+.secao8__descricao {
+   margin-left: 25%;
+   margin-right: 20%;
+  color: rgba(28, 91, 142, 0.914);
+   
+ }
+ .secao8__img {
+   max-width: 80%;
+   max-height: 100%;
+   width: auto;
+   height: auto;
  }

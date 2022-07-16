@@ -5,8 +5,15 @@
 .secao3__descricao {
     margin-left: 20%;
     margin-right: 20%;
+    color: rgba(93, 96, 102, 0.782);
 }
 .secao3__more {
     font-weight: bold;
     text-indent: 20%;
+}
+.secao3__img {
+    max-width: 80%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
 }
