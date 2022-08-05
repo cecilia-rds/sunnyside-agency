@@ -1,10 +1,13 @@
+nav {
+    text-align: right;
+}
 .menu__item {
     display: inline;
     left: 70%;
     color: white;
     font-weight: bold;
     font-size: 1rem;
-    margin: 0 0 0 20px;
+    margin-right: 30px;
   
     
 }
